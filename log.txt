@@ -1,0 +1,30 @@
+2024-09-20 15:38:42,085 Start main
+2024-09-20 15:38:42,086 
+Create Game
+2024-09-20 15:38:42,086 Loading weapons from 'game/weapons.json'
+2024-09-20 15:38:42,088 Loaded 11 weapons
+2024-09-20 15:38:42,088 Loading enemies from 'game/enemies.json'
+2024-09-20 15:38:42,089 Loaded 30 enemies
+2024-09-20 15:38:42,090 Loading level 1 from levels
+2024-09-20 15:38:42,090 Level 1 loaded successfully
+2024-09-20 15:38:42,090 Level data: width=40, height=20, grid size=20x40
+2024-09-20 15:38:42,096 Game initialized
+2024-09-20 15:38:42,096 Creating Player New Player with 25 HP and a Rusty Dagger
+2024-09-20 15:38:43,895 new_cell=#, dy=-1, dx=0, new_y=1, new_x=2
+2024-09-20 15:38:43,895 You bumped into a wall.
+2024-09-20 15:38:43,950 new_cell=#, dy=-1, dx=0, new_y=1, new_x=2
+2024-09-20 15:38:43,951 You bumped into a wall.
+2024-09-20 15:38:43,995 new_cell=#, dy=-1, dx=0, new_y=1, new_x=2
+2024-09-20 15:38:43,995 You bumped into a wall.
+2024-09-20 15:38:43,997 new_cell=#, dy=-1, dx=0, new_y=1, new_x=2
+2024-09-20 15:38:43,997 You bumped into a wall.
+2024-09-20 15:38:44,076 new_cell=#, dy=-1, dx=0, new_y=1, new_x=2
+2024-09-20 15:38:44,076 You bumped into a wall.
+2024-09-20 15:38:44,077 new_cell=#, dy=-1, dx=0, new_y=1, new_x=2
+2024-09-20 15:38:44,077 You bumped into a wall.
+2024-09-20 15:38:44,088 new_cell=#, dy=-1, dx=0, new_y=1, new_x=2
+2024-09-20 15:38:44,088 You bumped into a wall.
+2024-09-20 15:38:44,580 new_cell=#, dy=1, dx=0, new_y=3, new_x=2
+2024-09-20 15:38:44,580 You bumped into a wall.
+2024-09-20 15:38:44,626 new_cell=#, dy=1, dx=0, new_y=3, new_x=2
+2024-09-20 15:38:44,626 You bumped into a wall.
